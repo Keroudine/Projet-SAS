@@ -1,1 +1,3 @@
-# Projet-SAS
+# Projet réalisé avec SAS
+
+ Le projet consistait en l'analyse statistique du fichier Titanic, divisé en trois sous-fichiers, à l'aide du langage SAS. À travers l'importation des données, la concaténation des fichiers, et l'analyse descriptive avancée, nous avons pu étudier différentes caractéristiques des passagers du Titanic telles que le nombre de survivants, le nombre d'hommes et de femmes par classe, l'âge moyen par sexe, le prix moyen du ticket par classe, et bien d'autres aspects. En utilisant des requêtes SQL en SAS, nous avons pu effectuer des agrégations, des jointures, des calculs conditionnels, des restrictions, et d'autres manipulations de données pour obtenir des analyses approfondies. Cette étude nous a permis de mieux comprendre la composition des passagers du Titanic et les facteurs affectant leur survie.
